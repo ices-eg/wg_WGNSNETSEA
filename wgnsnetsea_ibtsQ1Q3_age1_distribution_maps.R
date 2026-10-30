@@ -6,7 +6,8 @@
 
 library(DATRASextra) # for downloading and data cleaning
 library(DATRAS) # for ALK and plotting
-library(surveyIndex) # only used for the plotting function
+library(maps)
+library(mapdata)
 
 
 # download survey data from DATRAS (done once)
